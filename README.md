@@ -33,14 +33,14 @@
 <br>
 
 <p align="center">
-⚙️ I'm currently working on a Discord Bot's website which is have simple web dashboard(control panel).
+⚙️ I'm currently working on a Discord Bot's website which is have simple web dashboard(control panel). Also, I have developed our company's website.
 </p>
 
 <p align="center">
-🌐 [Gamma Bot](https://gammabot.xyz/)
+🌐 Gamma Bot : https://gammabot.xyz/
 </p>
 <p align="center">
-🌐 [Gamma Network](https://gammanetwork.net/)
+🌐 Gamma Network : https://gammanetwork.net/
 </p>
 
 <br>
