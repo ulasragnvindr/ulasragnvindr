@@ -1,16 +1,54 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://cdn.gammanetwork.net/attachments/images/ulas1.png" style="width:200px; height:200px;">
+</p>
 
-<!--
-**ulasragnvindr/ulasragnvindr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  Hello 👋🏼 Im a junior developer who is working on React web development.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+
+  <a href="https://github.com/ulasragnvindr">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
+  </a>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg">
+  <a href="https://open.spotify.com/user/ulas1candir?si=8c1cb1d7690c44a1">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg">
+  </a>
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass1.svg">
+  
+</p>
+
+<br>
+
+<p align="center">
+⚙️ I'm currently working on a Discord Bot's website which is have simple web dashboard(control panel).
+</p>
+
+<p align="center">
+🌐 [Gamma Bot](https://gammabot.xyz/)
+</p>
+<p align="center">
+🌐 [Gamma Network](https://gammanetwork.net/)
+</p>
+
+<br>
+
+<p align="center">
+
+  <a href="https://www.buymeacoffee.com/ulasragnvindr">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee1.svg">
+  </a>
+
+</p>
